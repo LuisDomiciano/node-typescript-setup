@@ -19,6 +19,7 @@
   "homepage": "https://github.com/LuisDomiciano/node-typescript-setup#readme",
   "devDependencies": {
     "@types/node": "^18.13.0",
+    "git-commit-msg-linter": "^4.6.0",
     "typescript": "^4.9.5"
   }
 }
