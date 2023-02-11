@@ -1,2 +1,2 @@
 console.log("Hello World")
-const text = "It test"
+// const text = "It test"
