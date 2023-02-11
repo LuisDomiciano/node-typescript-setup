@@ -19,6 +19,8 @@
   "homepage": "https://github.com/LuisDomiciano/node-typescript-setup#readme",
   "devDependencies": {
     "@types/node": "^18.13.0",
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
+    "@typescript-eslint/parser": "^5.51.0",
     "eslint": "^8.34.0",
     "git-commit-msg-linter": "^4.6.0",
     "nodemon": "^2.0.20",
