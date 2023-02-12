@@ -1,4 +1,4 @@
-import Dog from "."
+import Dog from "@/index"
 
 it("should return 8", () => {
   expect(2 * 4).toBe(8)
