@@ -3,3 +3,5 @@ export default class Dog {
     return "Auau"
   }
 }
+
+console.log("Foo: bar")
